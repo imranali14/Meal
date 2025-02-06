@@ -1,2 +1,0 @@
-# Meal
-test for strugbits
